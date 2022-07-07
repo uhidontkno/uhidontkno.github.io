@@ -1,5 +1,5 @@
 
-Home | [Shortcuts](/#) | [Other Projects](/#)
+Home | [Shortcuts](#placeholder) | [Other Projects](#placeholder)
 ##
 
 # Nothing here yet... Click the above links!
